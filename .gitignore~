@@ -47,6 +47,4 @@ Temporary Items
 .apdisk
 
 # kp
-.gitattributes
-.gitignore
-*~
+.git*
