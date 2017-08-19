@@ -2,4 +2,3 @@ pytest
 pandas
 matplotlib
 numpy
-random
